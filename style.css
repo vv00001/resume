@@ -1,23 +1,23 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-body {
+.body {
     font-weight: 'Roboto',sans-serif;
     font-size: 17px;
     font-weight: normal;
     background: #e1e1e1;
     color: #0f141e;
 }
-a{
+.a{
     color: #000;
     text-decoration: none;
 }
-a:hover{
+.a:hover{
     text-decoration: underline;
 }
-a:active{
+.a:active{
     color: blue;
 }
-a:visited{
+.a:visited{
     color: grey;
 }
 .container{
